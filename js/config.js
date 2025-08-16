@@ -35,11 +35,11 @@ const API_SITES = {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     },
-    tyyszy: {
+        tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    xiaomaomi: {
+        xiaomaomi: {
         api: 'https://zy.xmm.hk/api.php/provide/vod',
         name: '小猫咪资源',
     },
@@ -88,99 +88,31 @@ const API_SITES = {
     },
     zuid: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
-        name: '最大资源',
+        name: '最大资源'
     },
     yinghua: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花资源',
+        name: '樱花资源'
     },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
-        name: '百度云资源',
+        name: '百度云资源'
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
-        name: '无尽资源',
+        name: '无尽资源'
     },
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '旺旺短剧',
+        name: '旺旺短剧'
     },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
-        name: 'iKun资源',
+        name: 'iKun资源'
     },
     lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod',
-        name: '量子资源站',
-    },
-    fantuan: {
-        api: 'https://www.fantuan.tv/api.php/provide/vod',
-        name: '饭团影视',
-    },
-    yinshigongchang: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod',
-        name: '影视工厂',
-    },
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
-    },
-    wakeke: {
-        api: 'https://www.zwcoco.com/api.php/provide/vod',
-        name: '哇可可影视',
-    },
-    yule: {
-        api: 'https://api.ylzy1.com/api.php/provide/vod',
-        name: '鱼乐资源',
-    },
-    kudian: {
-        api: 'https://api.kuapi.cc/api.php/provide/vod',
-        name: '酷点资源',
-    },
-    uku: {
-        api: 'https://api.ukuapi.com/api.php/provide/vod',
-        name: 'U酷资源',
-    },
-    tuziwo: {
-        api: 'http://cj.huimaojia.com:12345/api.php/provide/vod',
-        name: '兔子窝',
-    },
-    piaohua: {
-        api: 'https://www.zzrhgg.com/api.php/provide/vod',
-        name: '飘花电影',
-    },
-    shandian: {
-        api: 'http://sdzyapi.com/api.php/provide/vod',
-        name: '闪电资源',
-    },
-    kuaiboyun: {
-        api: 'http://www.kuaibozy.com/api.php/provide/vod/at/xml',
-        name: 'k播云',
-    },
-    fox: {
-        api: 'https://api.foxzyapi.com/api.php/provide/vod',
-        name: 'fox资源',
-    },
-    jindouyun: {
-        api: 'https://tv.jindcloud.com/api.php/provide/vod',
-        name: '筋斗云',
-    },
-    xinlang: {
-        api: 'http://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        name: '新浪资源',
-    },
-    thirtyninekan: {
-        api: 'https://www.39kan.com/api.php/provide/vod',
-        name: '39影视',
-    },
-    kumao: {
-        api: 'https://www.pgcms10.com/api.php/provide/vod',
-        name: '酷猫影视',
-    },
-    naifei: {
-        api: 'https://app.netflixmi.com/ruifenglb_api.php/provide/vod',
-        name: '奈菲迷',
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: '量子资源站'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
