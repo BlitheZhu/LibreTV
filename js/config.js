@@ -44,12 +44,12 @@ const API_SITES = {
         name: '小猫咪资源',
     },
     ffzy: {
-        api: 'https://api.fanqieapi.com/api.php/provide/vod',
+        api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
     heimuer: {
-        api: 'https://api.heiyemv.com/api.php/provide/vod',
+        api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
         detail: 'https://heimuer.tv', 
     },
@@ -118,6 +118,26 @@ const API_SITES = {
         api: 'https://api.tianyapi.com/api.php/provide/vod',
         name: '天涯资源'
     },
+    kuaibo: {
+        api: 'https://kuaibozyapi.com/api.php/provide/vod',
+        name: '快播资源',
+        detail: 'https://kuaibo.tv'
+    },
+    tiankong: {
+        api: 'https://api.tiankongapi.com/api.php/provide/vod',
+        name: '天空资源',
+        detail: 'https://tiankongzy.com'
+    },
+    hongniu: {
+        api: 'https://api.hongniuzy2.com/api.php/provide/vod',
+        name: '红牛资源',
+        detail: 'https://hongniuzy.com'
+    },
+    cokemv: {
+        api: 'https://api.cokemv.com/api.php/provide/vod',
+        name: '可乐资源',
+        detail: 'https://cokemv.tv'
+    }
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
