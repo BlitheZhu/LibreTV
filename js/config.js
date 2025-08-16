@@ -138,6 +138,53 @@ const API_SITES = {
         name: '可乐资源',
         detail: 'https://cokemv.tv'
     },
+    meijutt: {
+        api: 'https://mjzyapi.com/api.php/provide/vod',
+        name: '美剧天堂',
+        detail: 'https://meijutt.tv',
+    },
+    oumeitt: {
+        api: 'https://cj.oumeizyapi.com/api.php/provide/vod',
+        name: '欧美剧场',
+    },
+    // ===== 日剧专区 =====
+    rijutv: {
+        api: 'https://api.rijutv.com/api.php/provide/vod',
+        name: '日剧TV',
+        detail: 'https://rijutv.com',
+    },
+    jpclub: {
+        api: 'https://api.jpclub.cc/api.php/provide/vod',
+        name: '日剧Club',
+    },
+    // ===== 韩剧专区 =====
+    hanjutv: {
+        api: 'https://api.hanjutv.com/api.php/provide/vod',
+        name: '韩剧TV',
+        detail: 'https://hanjutv.com',
+    },
+    krkv: {
+        api: 'https://krkvapi.com/api.php/provide/vod',
+        name: '韩剧库',
+    },
+    // ===== 综合专区 =====
+    asiantv: {
+        api: 'https://asianapi.tv/api.php/provide/vod',
+        name: 'AsianTV',
+    },
+    drama9: {
+        api: 'https://drama9api.com/api.php/provide/vod',
+        name: 'Drama9',
+    },
+    // ===== 特色站点 =====（中文字幕保证）
+    subpig: {
+        api: 'https://subpigapi.com/api.php/provide/vod',
+        name: '猪猪日剧',
+    },
+    koreandb: {
+        api: 'https://kdbapi.com/api.php/provide/vod',
+        name: '韩剧数据库',
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
