@@ -137,7 +137,7 @@ const API_SITES = {
         api: 'https://api.cokemv.com/api.php/provide/vod',
         name: '可乐资源',
         detail: 'https://cokemv.tv'
-    }
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
